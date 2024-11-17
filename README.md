@@ -32,7 +32,7 @@ This project demonstrates the steps to deploy a static website on AWS using S3 a
 3. CloudFront distribution setup.
 4. Successful website access via CloudFront.
 
-- Screenshots located inside images folder is zipped into a file named my-static-s3-website.zip and included alongside this README.
+- Screenshots folder is zipped into a file named my-static-s3-website.zip and included alongside this README.
 
 ## Additional Information
 IAM Policy details: 
